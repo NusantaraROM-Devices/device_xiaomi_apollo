@@ -39,7 +39,7 @@ static const variant_info_t apollopro_info = {
     .brand = "Xiaomi",
     .device = "apollo",
     .marketname = "Mi 10T Pro",
-    .model = "M2007J3SG",
+    .model = "M2007J3SY",
     .build_fingerprint = "Xiaomi/apollopro_global/apollo:11/RKQ1.200826.002/V12.5.4.0.RJDMIXM:user/release-keys",
 
     .nfc = true,
