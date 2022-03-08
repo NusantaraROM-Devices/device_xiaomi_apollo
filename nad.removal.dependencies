@@ -17,7 +17,7 @@
   {
     "remote": "nad",
     "repository": "android_hardware_qcom_media",
-    "target_path": "hardware/qcom-caf/sm8250/audio"
+    "target_path": "hardware/qcom-caf/sm8250/media"
   },
   {
     "remote": "nad",
